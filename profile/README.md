@@ -10,7 +10,7 @@ The full **fox32** suite mainly consists of 4 components, each seperated into th
  - [fox32](https://github.com/fox32-arch/fox32) - the virtual machine itself
  - [fox32asm](https://github.com/fox32-arch/fox32asm) - the fox32 assembler
  - [fox32rom](https://github.com/fox32-arch/fox32rom) - a collection of commonly-used routines
- - [fox32os](https://github.com/fox32-arch/fox32os) (planned) - a multitasking operating system with a simple windowing system
+ - [fox32os](https://github.com/fox32-arch/fox32os) - a multitasking operating system
 
 Documentation is a work-in-progress.
 
