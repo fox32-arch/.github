@@ -12,7 +12,7 @@ The full **fox32** suite mainly consists of 4 components, each seperated into th
  - [fox32rom](https://github.com/fox32-arch/fox32rom) - a collection of commonly-used routines
  - [fox32os](https://github.com/fox32-arch/fox32os) - a multitasking operating system
 
-Documentation is a work-in-progress.
+Documentation is a work-in-progress. Tutorials are available in the [demos repository](https://github.com/fox32-arch/demos/tree/main/tutorials).
 
 ## License
 This project is licensed under the [MIT license](LICENSE).
