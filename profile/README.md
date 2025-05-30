@@ -20,3 +20,7 @@ We have a [Discord server](https://discord.gg/2Tun7FnUZ2) to discuss development
 
 ## License
 This project is licensed under the [MIT license](LICENSE).
+
+This organization is a **no-AI zone**. I will not accept contributions that contain AI-generated content.
+
+Trans rights are human rights.
