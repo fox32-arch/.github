@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-**It is highly recommended that you compile all components from source, as the stable releases tend to get outdated quickly!** GitHub Actions CI artifacts can also be downloaded if you really don't want to compile something locally. Newer fox32os commits tend to rely on changes introduced in newer fox32rom commits, so try to keep both in sync as much as possible. Changes are also made to the base fox32 specification occasionally as well, although that is rare and usually only to fix bugs.
+**It is highly recommended that you compile all components from source, as the stable releases tend to get outdated quickly!** To quickly build a complete fox32 environment, see the [build-all repository](https://github.com/fox32-arch/build-all). GitHub Actions CI artifacts can also be downloaded if you really don't want to compile something locally. Newer fox32os commits tend to rely on changes introduced in newer fox32rom commits, so try to keep both in sync as much as possible. Changes are also made to the base fox32 specification occasionally as well, although that is rare and usually only to fix bugs.
 
 The full software suite mainly consists of four components, each seperated into their own repository. See their README files for more info:
  - [fox32](https://github.com/fox32-arch/fox32) - emulator of the fox32 platform
